@@ -15,21 +15,22 @@
 
   #### Precipitation Analysis:
   
-    #### -Retrieve the last 12 months of precipitation data.
-    ### -Store results in a DataFrame and generate visual plots.
-    #### Station Analysis:
-    #### -Calculate total number of weather stations.
-    #### -Identify most active station and analyze its temperature data.
+     -Retrieve the last 12 months of precipitation data.
+    -Store results in a DataFrame and generate visual plots.
+    
+  #### Station Analysis:
+     -Calculate total number of weather stations.
+     -Identify most active station and analyze its temperature data.
 
 ### Part 2: Flask API Development
 
   #### Create an API with the following endpoints:
     
-    #### 1) /: Homepage listing available routes.
-    #### 2) - /api/v1.0/precipitation: Precipitation data for the last year.
-    #### 3) - /api/v1.0/stations: List of weather stations.
-    #### 4) /api/v1.0/tobs: Temperature observations for the most active station.
-    #### 5) /api/v1.0/<start> and /api/v1.0/<start>/<end>: Minimum, average, and maximum temperatures for a specified date range.
+    1) /: Homepage listing available routes.
+    2) - /api/v1.0/precipitation: Precipitation data for the last year.
+    3) - /api/v1.0/stations: List of weather stations.
+    4) /api/v1.0/tobs: Temperature observations for the most active station.
+    5) /api/v1.0/<start> and /api/v1.0/<start>/<end>: Minimum, average, and maximum temperatures for a specified date range.
 
 ## How to Run
   ### -Clone the repository.
@@ -44,8 +45,8 @@
   ### Pandas
   ### Matplotlib
 
-References 
+#### References 
 
-ChatGPT was used for README outline and format, and troubleshooting errors for this assignment.
-
-OpenAI. (2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
+  ChatGPT was used for README outline and format, and troubleshooting errors for this assignment.
+  
+  OpenAI. (2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
