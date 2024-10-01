@@ -39,11 +39,11 @@
   ### -Start the Flask application (app.py) to access the API.
 
 ## Dependencies
-  ### Python 3.7+
-  ### SQLAlchemy
-  ### Flask
-  ### Pandas
-  ### Matplotlib
+  #### Python 3.7+
+  #### SQLAlchemy
+  #### Flask
+  #### Pandas
+  #### Matplotlib
 
 #### References 
 
