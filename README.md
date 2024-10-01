@@ -43,3 +43,9 @@
   ### Flask
   ### Pandas
   ### Matplotlib
+
+References 
+
+ChatGPT was used for README outline and format, and troubleshooting errors for this assignment.
+
+OpenAI. (2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
